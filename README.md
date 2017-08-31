@@ -5,9 +5,9 @@
     create-react-app把webpack配置文件以及服务文件默认隐藏起来,这使得我们不能自由的配置webpack。好在官方提供了yarn eject命令可以是webpack配置文件暴露出来。react-cli-app就是eject之后的模板。开发者可以自由的配置你的webpack。
     <br> 
 ### 技术支持
-    `react-router`
+  `react-router`
     <br>
-    `redux`
+  `redux`
     <br>
     create-react-app并没有集成react-router、redux等功能，以至于我们开发者在创建react实例之后还需要配置router和redux。
     <br>
